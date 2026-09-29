@@ -40,6 +40,15 @@ inserting records
 Employee_ Table
 <img width="1032" height="342" alt="employee record" src="https://github.com/user-attachments/assets/bbbd4ffe-807c-488a-91d0-5f5a3f10530e" />
 
+Storedprocedure- GetEmployeeSalaryReport
+<img width="1077" height="663" alt="GetEmployeeSalaryReport" src="https://github.com/user-attachments/assets/a6873026-2078-4bae-ba5d-743341ed968e" />
+
+Storedprocedure-CalculateEmployeeSalary
+<img width="1077" height="507" alt="CalculateEmployeeSalary" src="https://github.com/user-attachments/assets/419a0da5-1747-4ee2-8ecd-b58c4a749ab5" />
+
+Storedprocedure-EmployeesalaryGrade
+<img width="951" height="450" alt="EmployeesalaryGrade" src="https://github.com/user-attachments/assets/69b9bc7c-63d1-4ea8-ae4b-f2cc37771380" />
+
 
 ## Stored Procedures
 
