@@ -31,7 +31,16 @@ The `employee_` table contains:
 * `joining_date` – Date of joining
 * `status` – Active or Inactive
 
-!(<img width="695" height="412" alt="create table" src="https://github.com/user-attachments/assets/5f02e07f-d0a2-4df5-8286-df4779a53c09" />)
+Table Creation
+<img width="695" height="412" alt="create table" src="https://github.com/user-attachments/assets/5f02e07f-d0a2-4df5-8286-df4779a53c09" />
+
+inserting records 
+<img width="1011" height="491" alt="data insertion" src="https://github.com/user-attachments/assets/427f0284-2505-4835-86a6-364ac8a529b0" />
+
+Employee_ Table
+<img width="1032" height="342" alt="employee record" src="https://github.com/user-attachments/assets/bbbd4ffe-807c-488a-91d0-5f5a3f10530e" />
+
+
 ## Stored Procedures
 
 ### 1. GetEmployeeSalaryReport
