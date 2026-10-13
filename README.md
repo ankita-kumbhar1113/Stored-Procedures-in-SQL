@@ -1,6 +1,4 @@
-# JForce Solutions – SQL Developer Interview Task
-
-## Project Overview
+## Stored Procedures - Project Overview
 
 This project demonstrates an Employee Management and Payroll database using MySQL Stored Procedures.
 
